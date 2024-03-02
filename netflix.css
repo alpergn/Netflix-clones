@@ -1,0 +1,10 @@
+#header{
+    background: url(./images\ netflix/img/arkaplan.jpg);
+    height: 600px;
+    width: 100%;
+}
+.cizgi{
+    background-color: gray;
+    width: 100%;
+    height: 5px;
+}
